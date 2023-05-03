@@ -2,10 +2,10 @@
 
 ##Índice
 
-*[Titulo](#Sprint-final-modulo-2)
+*[Codigo HTML](#Sprint-final-modulo-2)
 
-*[Test](#test)
+*[Codigo CSS](#test)
 
-*[Test1](#test1)
+*[Codigo JS](#https://github.com/kevinrojasp/calculadora.frontend/blob/main/Sprint%20Final%20M2/calculadora.html)
 
 Sprint Final M2
