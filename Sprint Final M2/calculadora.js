@@ -1,7 +1,5 @@
-
-
 function numeros(valor) {
-    document.getElementById("resultado").value += valor;    
+    document.getElementById("resultado").value += valor;
 }
 
 function operacion() {
@@ -9,7 +7,7 @@ function operacion() {
     if (operatoria == 0) {
         document.getElementById('resultado').value = "Sin operación";
     } else {
-        document.getElementById("resultado").value = eval(operatoria);
+        document.getElementById("resultado").value = eval(operatoria).toFixed(1);
     }
 }
 
@@ -24,4 +22,6 @@ document.addEventListener("keydown", function (event) {
         operacion();
     }
 });
+
+
 
