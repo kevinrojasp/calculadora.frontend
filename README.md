@@ -12,8 +12,7 @@ resta, multiplicación y división. También funciona para números al cuadrado 
 
 Se ejecuta desde calculadora.html y en el navegador aparece la calculadora.
 
-<a href="https://ibb.co/txF2H5r"><img src="https://i.ibb.co/0Fv9n3b/Calculadora.png" alt="Calculadora" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>transformar una foto a jpg</a><br />
-
+<a href="https://ibb.co/txF2H5r"><img src="https://i.ibb.co/0Fv9n3b/Calculadora.png" alt="Calculadora" border="0"></a>
 
 ### Integrantes
 - [Rebeca Gatica](https://github.com/rebegv)
