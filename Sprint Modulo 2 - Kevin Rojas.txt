@@ -1,0 +1,9 @@
+Sprint final  02 mayo 2023
+Módulo 2
+
+Integrantes del grupo 5
+- Kevin Rojas
+- Roberto Rivas
+- Rebeca Gatica
+
+LINK: 	https://github.com/kevinrojasp/calculadora.frontend
