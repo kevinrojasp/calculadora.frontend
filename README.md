@@ -16,6 +16,8 @@ Se ejecuta desde calculadora.html y en el navegador aparece la calculadora.
 
 ### Utilizamos
 <a href="https://ibb.co/txF2H5r"><img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="HTML" border="0" style="width:100px;height:100px;"></a>
+<a href="https://ibb.co/txF2H5r"><img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="HTML" border="0" style="width:100px;height:100px;"></a>
+
 
 ### Integrantes
 - [Rebeca Gatica](https://github.com/rebegv)
