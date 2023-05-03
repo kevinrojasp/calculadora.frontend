@@ -13,6 +13,6 @@ resta, multiplicación y división. También funciona para números al cuadrado 
 Se ejecuta desde calculadora.html y en el navegador aparece la calculadora.
 
 ### Integrantes
-- Rebeca Gatica [website](https://github.com/rebegv)
-* Roberto Rivas [website](https://github.com/RobertoRivasL)
-+ Kevin Rojas [website](https://github.com/kevinrojasp)
+- [Rebeca Gatica](https://github.com/rebegv)
+* [Roberto Rivas](https://github.com/RobertoRivasL)
++ [Kevin Rojas](https://github.com/kevinrojasp)
