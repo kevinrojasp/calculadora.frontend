@@ -2,7 +2,7 @@
 
 ### Link repositorio
 El proyecto final se encuentra en Github en el siguiente link :
-https://github.com/kevinrojasp/calculadora.frontend
+[https://github.com/kevinrojasp/calculadora.frontend](https://kevinrojasp.github.io/)
 
 ### Indicaciones
 Este repositorio fue modificado por los 3 integrantes del grupo.
